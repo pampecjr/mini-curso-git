@@ -11,3 +11,5 @@ Arquivos exemplo utilizados nos exercícios
    <b><i>git remote add origin [url]</i></b> - linka o diretório local ao repositório remoto de url informado
   
    <b><i>git push origin master</i></b> - envia alterações ao repositório remoto
+   
+ # Deu?
